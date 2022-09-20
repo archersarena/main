@@ -1,6 +1,8 @@
 ## archersarena.com
 This way can have centralized hub of images/text and if need to update, can update image itself and will spread across Bookeo/Squarespace - anywhere that uses html
 
+- files no bigger than 100mb
+
 ### GitHub way
 
 Some basic Git commands are:
