@@ -6,9 +6,7 @@ This way can have centralized hub of images/text and if need to update, can upda
 Some basic Git commands are:
 ```
 <p><img src=" .png link" /></p>
-
 ```
-
 ---
 
 ### Google Drive way
@@ -22,4 +20,11 @@ https://drive.google.com/file/d/____/view?usp=sharing
 ```
 
 link in Bookeo/Website with
-<img scr="https://drive.google.com/uc?export=view&amp;id=____" />
+
+```
+<p><img src="https://drive.google.com/uc?export=view&amp;id=___"/></p>
+<p>&nbsp;</p>
+```
+
+- How to Update
+Right-click the shared image --> Manage version
