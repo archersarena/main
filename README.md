@@ -27,4 +27,5 @@ link in Bookeo/Website with
 ```
 
 - How to Update
+
 Right-click the shared image --> Manage version
