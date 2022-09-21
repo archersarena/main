@@ -5,7 +5,6 @@ This way can have centralized hub of images/text and if need to update, can upda
 
 ### GitHub way
 
-Some basic Git commands are:
 ```
 <p><img src=" .png link" /></p>
 ```
