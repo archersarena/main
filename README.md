@@ -6,7 +6,7 @@ This way can have centralized hub of images/text and if need to update, can upda
 ### GitHub way
 
 ```
-<p><img src=" .png link" /></p>
+<p><img src="png_link" /><span style="color: #ffffff;">.</span></p>
 ```
 ---
 
