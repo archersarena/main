@@ -1,0 +1,155 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+body {
+    font-family: 'Nova Square', sans-serif;
+    margin: 0;
+}
+.main-container {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+.gift-card-img img {
+    max-width: 100%;
+}
+.gift-card-code {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    background-color: #74BC90;
+    border: 5px grey;
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: 28px;
+    color: black;
+}
+.gift-card-code strong {
+    font-weight: 900;
+	color: white;
+}
+.gift-card-header {
+    margin: 10px 10px;
+    font-size: 26px;
+    font-weight: 1000;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+      1px 1px 0 #000;
+}
+.gift-card-header strong {
+    font-weight: 900;
+	color: #74BC90;
+}
+.gift-card-use {
+    font-size: 20px;
+    color: white;
+    margin: 45px auto;
+        text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+}
+.gift-card-footer {
+    margin: 45px auto;
+}
+.gift-card-footer img {
+    max-width: 100%;
+}
+.gift-card-url {
+    text-align: center;
+    display: none;
+}
+.gift-card-gift-message {
+    margin: 20px auto;
+}
+
+@media (max-width: 600px) {
+    .main-container {
+        width: 100%;
+    }
+    .gift-card-img img {
+        width: 100%;
+    }
+    .gift-card-header {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .gift-card-footer img {
+        width: 100%;
+    }
+}
+</style>
+</head>
+
+<body>
+    <div style="padding: 0px;background-image: url('https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/bgimg.png');background-repeat: no-repeat;background-position: center top;background-color: transparent;  background-size: 100% 100%;">
+<div class="main-container">
+<p> </p>
+<a href="https://www.facebook.com/ArchersArena/"><img style="width: 7%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/ico-fb.png" alt=""></a>
+<a href="https://www.instagram.com/archersarena/"><img style="width: 7%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/ico-insta.png" alt=""></a>
+<a href="https://archersarena.com"><img style="width: 48%;background-color: #cccccc; border: 2px solid #cc0000;
+    border-radius: 5px;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/logo.png" alt=""></a>
+<a href="https://www.tiktok.com/@archersarena"><img style="width: 7%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/ico-tiktok.png" alt=""></a>
+<a href="https://www.youtube.com/@Archersarena"><img style="width: 7%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/ico-yt.png" alt=""></a>
+<p> </p>
+    <div class="gift-card-code">USE THE CODE<br><strong><span style="color:#cc0000">{{215441014__number_codes}}</span></strong><br>FOR $100 OFF</div>
+<p> </p>
+    <div class="gift-card-header">Celebrate <strong>Your Birthday</strong>!</div>
+    <div class="gift-card-header">Learn <strong>Archery Skills</strong>!</div>
+    <div class="gift-card-header">Join <strong>Arena Fitness</strong>!</div>
+    <p> </p>
+<div class="gift-card-img">
+<div class="row">
+<!-- 1.5h1a -->
+<a href="https://bookeo.com/archersarena?type=41550L6TAR71856E11DD7D"><img style="height: 30%; width: 30%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/1.5h1a.png" alt=""></a>
+
+<!-- 2h2a -->
+<a href="https://bookeo.com/archersarena?type=415504TRJM316B6BEAD7E6"><img style="height: 30%; width: 30%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/2h2a.png" alt=""></a>
+
+<!-- 3h3a -->
+<a href="https://bookeo.com/archersarena?type=415507PN74N17423B6ACA5"><img style="height: 30%; width: 30%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/3h3a.png" alt=""></a>
+</div>
+<div class="row">
+
+<!-- 2c1.5h1a -->
+<a href="https://bookeo.com/archersarena?type=41550E6A7K617D0153DC08"><img style="height: 30%; width: 30%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/2c1.5h1a.png" alt=""></a>
+
+<!-- 2c2h2a -->
+<a href="https://bookeo.com/archersarena?type=415506WJ76A17B29747F3D"><img style="height: 30%; width: 30%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/2c2h2a.png" alt=""></a>
+
+<!-- 3hparty -->
+<a href="https://bookeo.com/archersarena?type=41550A4A49C17BF4E105D6"><img style="height: 30%; width: 30%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/3hparty.png" alt=""></a>
+</div>
+<div class="row">
+<!-- adv -->
+<a href="https://bookeo.com/archersarena?type=415503CXTTL17DE9640B97"><img style="height: 30%; width: 30%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/adv.png" alt=""></a>
+
+<!-- bday_activities -->
+<a href="https://bookeo.com/archersarena?type=41550Y9CW341847B50AEF5"><img style="height: 30%; width: 30%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/bday_activities.png" alt=""></a>
+
+<!-- bday_ultimate -->
+<a href="https://bookeo.com/archersarena?type=41550T34RRC18312624354"><img style="height: 30%; width: 30%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/bday_ultimate.png" alt=""></a>
+</div>
+<a href="https://archersarena.com/performance-fitness-and-combat-centre"><img style="width: 70%;background-color: #cccccc; border: 2px solid #cc0000;
+    border-radius: 20px;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/logo-fitness.png" alt=""></a>
+</div>
+<p> </p>
+    <div class="gift-card-code">USE THE CODE<br><strong><span style="color:#cc0000">{{215441014__number_codes}}</span></strong><br>FOR $100 OFF</div>
+<p> </p>
+<a href="https://www.facebook.com/ArchersArena/"><img style="width: 7%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/ico-fb.png" alt=""></a>
+<a href="https://www.instagram.com/archersarena/"><img style="width: 7%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/ico-insta.png" alt=""></a>
+<a href="https://archersarena.com"><img style="width: 48%;background-color: #cccccc; border: 2px solid #cc0000;
+    border-radius: 5px;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/logo.png" alt=""></a>
+<a href="https://www.tiktok.com/@archersarena"><img style="width: 7%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/ico-tiktok.png" alt=""></a>
+<a href="https://www.youtube.com/@Archersarena"><img style="width: 7%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/ico-yt.png" alt=""></a>
+    <div class="gift-card-header">How To Use</div>
+    <img style="height: 70%; width: 70%;" src="https://raw.githubusercontent.com/archersarena/main/main/Archers%20Arena/promo/how_to_use.png" alt="">
+    </div>
+</div>
+</body>
+</html>
