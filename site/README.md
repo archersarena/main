@@ -13,8 +13,11 @@ Tesla-style full-screen walkthroughs and the 3-2-1 blacklight switch.
 - Birthday door (`/birthday`): the complete walkthrough — arrival, gear-up, your spot,
   the 3-2-1-GO countdown that drops the page into the blacklight world, the game,
   pizza, the package toggle ($849 / $1,699), the trust strip, the booking close.
-- Door stubs: `/play`, `/corporate`, `/learn` (one scene + honest copy until each full
-  journey is built), `/train` hands off to the Arena Fitness funnel.
+- Play door (`/play`): the fast door — pick-your-games grid, 20+ fork to Team events.
+- Team events door (`/corporate`): date-and-headcount first, the spaces, its own
+  countdown-to-blacklight beat, enquiry close.
+- Learn door (`/learn`): the ladder from first lesson to Level 7 and metal tip.
+- `/train` hands off to the Arena Fitness funnel.
 - schema.org JSON-LD on the birthday page (Service + Offers) for search and AI answers.
 
 ## Still placeholder (wired in later, by plan order)

@@ -121,6 +121,30 @@ footer { padding: 40px 0 60px; color: var(--muted); font-size: 12.5px; backgroun
 footer .in { max-width: 980px; margin-inline: auto; }
 footer a { color: var(--muted); }
 
+/* play door: game grid */
+.gamegrid { margin-top: 22px; display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; }
+.gamecard { position: relative; border-radius: 12px; overflow: hidden; aspect-ratio: 4/3; background: #171310; }
+.gamecard img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.85; }
+.gamecard .sc { position: absolute; inset: 0; background: linear-gradient(to top, rgba(8, 6, 4, 0.85) 15%, rgba(8, 6, 4, 0.05) 65%); }
+.gamecard .tx { position: absolute; left: 12px; right: 12px; bottom: 10px; color: #fff; }
+.gamecard .dn { font-family: var(--disp); font-weight: 700; font-size: 20px; text-transform: uppercase; letter-spacing: 0.8px; display: block; line-height: 1; }
+.gamecard .dd { font-size: 12px; color: #cfc9c0; display: block; margin-top: 2px; }
+
+/* corporate enquiry */
+.enquiry { margin-top: 24px; display: grid; gap: 14px; max-width: 420px; }
+.enquiry label { font-family: var(--disp); font-size: 14px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); display: grid; gap: 8px; }
+.steprow { display: flex; align-items: center; gap: 16px; }
+.steprow button { appearance: none; border: 1.5px solid rgba(20, 18, 16, 0.2); background: #fff; color: var(--ink); border-radius: 10px; width: 48px; height: 48px; font-size: 22px; cursor: pointer; }
+.steprow b { font-family: var(--disp); font-size: 40px; min-width: 64px; text-align: center; }
+
+/* learn ladder */
+.ladder { margin: 26px 0 0; padding: 0; list-style: none; display: grid; gap: 12px; max-width: 560px; }
+.ladder li { display: flex; gap: 14px; align-items: flex-start; background: #fff; border: 1px solid rgba(20, 18, 16, 0.1); border-radius: 12px; padding: 14px 16px; }
+.ladder .lno { font-family: var(--disp); font-weight: 700; font-size: 24px; color: var(--red); line-height: 1.1; }
+.ladder .ltx { display: grid; gap: 2px; }
+.ladder .ltx b { font-family: var(--disp); font-size: 19px; text-transform: uppercase; letter-spacing: 0.6px; }
+.ladder .ltx span { font-size: 14.5px; color: var(--muted); }
+
 /* door stub pages */
 .stub { min-height: 100svh; display: flex; }
 .stub .fg { position: relative; }
