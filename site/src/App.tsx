@@ -5,7 +5,7 @@ import DoorStub from "./pages/DoorStub";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Routes>
         <Route path="/" element={<Lobby />} />
         <Route path="/birthday" element={<Birthday />} />
